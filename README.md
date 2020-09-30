@@ -1,2 +1,4 @@
 # instagramlikebot
 test
+
+*Test-all*
